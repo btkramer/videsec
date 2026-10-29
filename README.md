@@ -45,7 +45,7 @@ Pick a food and doneness, load it, close the lid, and the cooker does the rest. 
 | Drag the doneness bar; the pasteurization time and total estimate update live | Close the lid: plate gap measures the food's thickness as it lands | Cross-section shows the modelled temperature through the food, probe reading and pasteurization progress |
 | ![Doneness, Blueprint](docs/images/blueprint-ask.png) | ![Load, Blueprint](docs/images/blueprint-load.png) | ![Cook, Blueprint](docs/images/blueprint-cook.png) |
 
-<sub>From the UI design canvas (concept "E v2"); the native LVGL port in LVGL follows it.</sub>
+<sub>From the UI design canvas (concept "E v2"); the native LVGL port follows it.</sub>
 
 ## How it works
 
